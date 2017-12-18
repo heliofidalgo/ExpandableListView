@@ -4,16 +4,7 @@
              x:Class="ExpandableListView.TestListViewPage">
     <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
 </ContentPage>
-    <!--<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ExpandableListView.TestListViewPage">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
-</ContentPage>-->
+<!-- LEMBRETE : A atualização das  Libs de um projeto antigo deve ser feito a desisntalação
+    das LIBS antigas tambem manualmente na pasta local e alterar a versão no ANDROID no arquivo packages.
+    config para a atual e depois reinstalar as libs.-->
 
