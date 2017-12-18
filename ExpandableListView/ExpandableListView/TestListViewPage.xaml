@@ -4,7 +4,7 @@
              x:Class="ExpandableListView.TestListViewPage">
     <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
 </ContentPage>
-<!-- LEMBRETE : A atualização das  Libs de um projeto antigo deve ser feito a desisntalação
+<!-- LEMBRETE : A atualização das  Libs de um projeto antigo deve ser feito a desinstalação
     das LIBS antigas tambem manualmente na pasta local e alterar a versão no ANDROID no arquivo packages.
-    config para a atual e depois reinstalar as libs.-->
+    config para a atual e depois reinstalar as libs. Não encontrei outro processo melhor no momento-->
 
