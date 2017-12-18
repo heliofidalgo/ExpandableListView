@@ -1,0 +1,12 @@
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\bin\Debug\netstandard2.0\ExpandableListView.deps.json
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\bin\Debug\netstandard2.0\ExpandableListView.dll
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\bin\Debug\netstandard2.0\ExpandableListView.pdb
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\obj\Debug\netstandard2.0\ExpandableListView.csprojResolveAssemblyReference.cache
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\obj\Debug\netstandard2.0\ExpandableListView.csproj.CoreCompileInputs.cache
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\obj\Debug\netstandard2.0\ExpandableListView.App.xaml.g.cs
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\obj\Debug\netstandard2.0\ExpandableListView.MainPage.xaml.g.cs
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\obj\Debug\netstandard2.0\ExpandableListView.TestListViewPage.xaml.g.cs
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\obj\Debug\netstandard2.0\ExpandableListView.AssemblyInfoInputs.cache
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\obj\Debug\netstandard2.0\ExpandableListView.AssemblyInfo.cs
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\obj\Debug\netstandard2.0\ExpandableListView.dll
+C:\source\ExpandableListView\ExpandableListView\ExpandableListView\obj\Debug\netstandard2.0\ExpandableListView.pdb
